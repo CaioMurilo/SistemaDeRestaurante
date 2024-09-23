@@ -1,4 +1,4 @@
-# Projeto 01 (Grupo)
+# Projeto 01 (Grupo) - POO
 
 -> Data limite: 27/09 às 23h;
 -> Enviar no AVA;
